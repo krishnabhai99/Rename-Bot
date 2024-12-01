@@ -9,7 +9,7 @@
     ],
     "repository": "https://github.com/AbirHasan2005/Rename-Bot",
     "website": "https://abirhasan.wtf",
-    "success_url": "https://t.me/AH_RenameBot",
+    "success_url": "https://t.me/new_animes_hindi_dub_india",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
